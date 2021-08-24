@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "484388292410",
+    "firebase_url": "https://ready-mix-722e1-default-rtdb.firebaseio.com",
+    "project_id": "ready-mix-722e1",
+    "storage_bucket": "ready-mix-722e1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:484388292410:android:ae4ecdd4ad9be99d553203",
+        "android_client_info": {
+          "package_name": "com.example.readymix"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "484388292410-iqb8ro8lc25vq2u30jucpg99h1k9e6v9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDD9rWSQD9CFo3wOAY7oGrhAmlLnPWX-ag"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "484388292410-iqb8ro8lc25vq2u30jucpg99h1k9e6v9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
